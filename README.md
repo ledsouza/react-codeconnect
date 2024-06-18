@@ -7,7 +7,7 @@ Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de Rea
 
 ## 🔨 Funcionalidades do projeto
 
-Nesse curso será desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
+Nesse curso foi desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
